@@ -1,6 +1,5 @@
 package org.example.controller;
 
-
 import org.example.service.CalculatorService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
